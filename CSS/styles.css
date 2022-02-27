@@ -1,11 +1,18 @@
 body {
   background-color: #E4F9F5;
+  margin: 10px, auto, 0, auto;
 }
 
 h1 {
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  margin-bottom: 0;
 }
+p {
+  margin-top:0;
+  margin-bottom: 5px;
 
+}
 /*
 h3 {
   color: #66BFBF;
