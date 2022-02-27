@@ -1,6 +1,6 @@
 body {
   background-color: #E4F9F5;
-  margin: 10px, auto, 0, auto;
+  margin: 0, auto, 0, auto;
 }
 
 h1 {
@@ -13,11 +13,11 @@ p {
   margin-bottom: 5px;
 
 }
+
 /*
 h3 {
   color: #66BFBF;
 }
-
 
 hr {
   border-style: none;
